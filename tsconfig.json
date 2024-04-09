@@ -3,6 +3,7 @@
 		"outDir": "./public/",
 		"noImplicitAny": true,
 		"module": "es6",
+    "rootDir": "./",
 		"target": "es5",
 		"allowJs": true,
 		"moduleResolution": "node"
